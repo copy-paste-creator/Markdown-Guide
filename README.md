@@ -21,7 +21,7 @@ with a line break. And with **bold**, *italic* and ***bold italic*** words.
 5. Numbered list item 5
    
         <head>
-          <title>Test</title>
+          <title>HTML Code</title>
         </head>
 
 ![Tux, the linux mascot](https://www.freepnglogos.com/uploads/linux-png/linux-icon-operating-systems-iconset-tatice-4.png)
