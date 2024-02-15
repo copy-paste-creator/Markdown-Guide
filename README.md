@@ -23,7 +23,7 @@ with a line break. And with **bold**, *italic* and ***bold italic*** words.
           <title>Test</title>
         </head>
 
-![Tux, the linux mascot](/assets/images/tux.png)
+![Tux, the linux mascot](https://www.freepnglogos.com/uploads/linux-png/linux-icon-operating-systems-iconset-tatice-4.png)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1920px-Tux.svg.png" width="100" alt="linux masott" title="The Linux Mascot">
 
