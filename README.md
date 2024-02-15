@@ -1,5 +1,6 @@
 # This is a Level 1 Heading for Markdown Guide
 ## This is a level 2 heading
+### Level 3 heading
 
 This is paragraph,  
 with a line break. And with **bold**, *italic* and ***bold italic*** words.
